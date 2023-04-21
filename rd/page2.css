@@ -1,0 +1,48 @@
+* {
+  margin: 20px;
+}
+
+/* page 1 */
+.container {
+  padding: 10px;
+  margin: 50px;
+}
+
+.inside {
+  display: flex;
+  align-items: center;
+}
+
+.inside image {
+  padding: 20px;
+}
+
+.textboxaj {
+  text-align: center;
+}
+.asidebox {
+  padding: 3 0px;
+}
+.asideheading {
+  font-size: 70px;
+}
+.asidetext {
+  font-size: 17px;
+}
+
+/* card */
+
+/* page 2 css */
+
+/* page 2 */
+.headabout {
+  font-style: bold;
+  font-size: 50px;
+}
+
+.detailabout {
+  font-size: 20px;
+  text-align: justify;
+}
+
+/* team */
